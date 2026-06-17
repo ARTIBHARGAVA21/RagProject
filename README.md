@@ -1,4 +1,4 @@
-# Azure Documentation Summarizer
+# Documentation Summarizer
 
 A simple Generative AI application built using LangChain and Mistral AI that loads Azure documentation from a text file and generates a concise summary of the content.
 
