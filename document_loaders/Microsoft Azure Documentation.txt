@@ -1,0 +1,157 @@
+Microsoft Azure Documentation
+Introduction
+
+Microsoft Azure is a cloud computing platform developed by Microsoft that provides services for computing, storage, networking, databases, artificial intelligence, analytics, and security. Azure enables organizations to build, deploy, and manage applications through Microsoft-managed data centers worldwide.
+
+Core Azure Services
+1. Azure Virtual Machines (VMs)
+Provides scalable virtual servers in the cloud.
+Supports Windows and Linux operating systems.
+Used for hosting web applications, databases, and enterprise applications.
+Offers flexible sizing and auto-scaling options.
+Features
+High availability
+Load balancing support
+Backup and disaster recovery
+Secure remote access
+2. Azure App Service
+Platform as a Service (PaaS) offering.
+Used to deploy web applications and APIs without managing servers.
+Supports Python, .NET, Java, Node.js, and PHP.
+Benefits
+Automatic scaling
+Continuous deployment
+Built-in security
+Easy integration with GitHub
+3. Azure Storage
+
+Provides secure and scalable cloud storage.
+
+Types of Storage
+Blob Storage
+Stores images, videos, documents, and backups.
+Suitable for unstructured data.
+File Storage
+Managed file shares accessible via SMB protocol.
+Queue Storage
+Message storage for communication between applications.
+Table Storage
+NoSQL key-value data storage.
+4. Azure SQL Database
+Fully managed relational database service.
+Based on Microsoft SQL Server.
+Handles backups, updates, and security automatically.
+Features
+Automatic backups
+High availability
+Data encryption
+Built-in monitoring
+5. Azure Cosmos DB
+Globally distributed NoSQL database service.
+Supports multiple APIs including MongoDB and Cassandra.
+Designed for high performance and low latency.
+6. Azure Functions
+Serverless computing service.
+Executes code in response to events.
+No server management required.
+Common Use Cases
+API processing
+File processing
+Scheduled jobs
+Event-driven applications
+7. Azure Virtual Network (VNet)
+Creates isolated private networks in Azure.
+Allows secure communication between Azure resources.
+Similar to AWS VPC.
+Components
+Subnets
+Route tables
+Network Security Groups (NSGs)
+VPN Gateway
+8. Azure Active Directory (Azure AD)
+Identity and access management service.
+Provides authentication and authorization.
+Features
+Single Sign-On (SSO)
+Multi-Factor Authentication (MFA)
+Role-Based Access Control (RBAC)
+9. Azure Monitor
+Monitoring and diagnostics service.
+Collects metrics, logs, and performance data.
+Capabilities
+Real-time monitoring
+Alert generation
+Performance analysis
+Dashboard creation
+10. Azure Load Balancer
+Distributes incoming traffic across multiple servers.
+Improves application availability and fault tolerance.
+Benefits
+High availability
+Better performance
+Scalability
+11. Azure Kubernetes Service (AKS)
+Managed Kubernetes service.
+Simplifies deployment and management of containers.
+Supports CI/CD integration.
+12. Azure DevOps
+
+Provides tools for software development lifecycle management.
+
+Services
+Azure Repos
+Azure Pipelines
+Azure Boards
+Azure Test Plans
+Azure Artifacts
+Azure Security Services
+Azure Security Center
+Security monitoring and threat protection.
+Provides recommendations for improving security posture.
+Azure Key Vault
+Secure storage for secrets, certificates, and encryption keys.
+Centralized credential management.
+Azure AI Services
+Azure AI Services
+
+Provides pre-built AI capabilities.
+
+Includes
+Vision AI
+Speech Services
+Language Processing
+Document Intelligence
+Azure Benefits
+Scalability
+
+Resources can be increased or decreased based on demand.
+
+High Availability
+
+Azure provides global data centers and redundancy.
+
+Security
+
+Enterprise-grade security with encryption and compliance standards.
+
+Cost Optimization
+
+Pay only for resources consumed.
+
+Global Reach
+
+Data centers available across multiple regions worldwide.
+
+AWS vs Azure (Quick Comparison)
+Feature	AWS	Azure
+Compute	EC2	Virtual Machines
+Storage	S3	Blob Storage
+Database	RDS	Azure SQL Database
+Serverless	Lambda	Azure Functions
+Networking	VPC	VNet
+Monitoring	CloudWatch	Azure Monitor
+Identity	IAM	Azure AD
+Containers	ECS/EKS	AKS
+Conclusion
+
+Microsoft Azure is a comprehensive cloud platform that provides services for computing, storage, networking, databases, security, DevOps, AI, and analytics. It enables organizations to build scalable, secure, and highly available applications while reducing infrastructure management overhead. Azure is widely used for enterprise applications, web development, machine learning, and cloud-native solutions.
